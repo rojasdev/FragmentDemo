@@ -6,5 +6,11 @@
         <item
             android:id="@+id/nav_fragment_two"
             android:title="Fragment Two" />
+        <item
+            android:id="@+id/nav_fragment_three"
+            android:title="Fragment Three" />
+        <item
+            android:id="@+id/nav_fragment_four"
+            android:title="Fragment Four" />
     </group>
 </menu>

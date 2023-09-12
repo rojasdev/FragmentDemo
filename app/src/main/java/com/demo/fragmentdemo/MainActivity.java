@@ -53,6 +53,10 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             fragment = new FragmentOne();
         }else if(id == R.id.nav_fragment_two){
             fragment = new FragmentTwo();
+        }else if(id == R.id.nav_fragment_three){
+            fragment = new FragmentThree();
+        }else if(id == R.id.nav_fragment_four){
+            fragment = new FragmentFour();
         }
 
         if (fragment != null) {
